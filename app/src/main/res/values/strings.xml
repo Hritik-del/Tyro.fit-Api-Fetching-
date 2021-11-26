@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tryo fit App</string>
+
+    <!-- strings.xml -->
+    <string name="cardio">Cardio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="arr1">
+        <item>Any</item>
+    </string-array>
+
+    <string-array name="arr2">
+        <item>None</item>
+    </string-array>
+
+    <string-array name="arr3">
+        <item>Ishan</item>
+        <item>Ankit</item>
+    </string-array>
+
+    <string-array name="arr4">
+        <item>Begineer</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+</resources>
