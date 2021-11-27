@@ -1,6 +1,6 @@
 # Tryo.fit
 
-Made the ui and fetched the data from the api and displayed them in an grid view.
+Made the ui and fetched the data from the api and displayed them in an grid view. Also implemented the Navigation view which can be further used to filter the data.
 
 ### Working of App
 
